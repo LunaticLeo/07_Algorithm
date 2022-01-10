@@ -1,2 +1,2 @@
-- **Algorithm Study Note**
-Yufu Liao
+**<center>Algorithm Study Note</center>**
+Created by Yufu Liao
