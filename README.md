@@ -18,3 +18,6 @@ Solved Leetcode with Tag
 - 496 Next Greater Element I. easy. 
 - 144 Binary Traversal. easy. 
 - 141 Linked List Cycle. easy. set, two pointers
+- 1011 Capacity To Ship Packages Within D Days. binary search
+- 11 Container With Most Water. two pointer
+- 33 Search in Rotated Sorted Array. binary search
